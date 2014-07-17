@@ -52,13 +52,13 @@ module.exports = {
 
     // Labels which you can translate to other languages
     labels: {
-      about: "About",
-      location: "Location",
-      speakers: "Speakers",
-      schedule: "Schedule",
-      sponsors: "Sponsors",
-      partners: "Partners",
-      contact: "Contact"
+      about: "Sobre",
+      location: "Localização",
+      speakers: "Palestrantes",
+      schedule: "Agenda",
+      sponsors: "Patrocínio",
+      partners: "Parceiros",
+      contact: "Contato"
     },
 
     // The entire schedule
