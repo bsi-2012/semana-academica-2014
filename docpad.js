@@ -26,9 +26,9 @@ module.exports = {
     // },
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
-    forkButton: {
-        repository: "https://github.com/braziljs/conf-boilerplate"
-    },
+    // forkButton: {
+    //     repository: "https://github.com/braziljs/conf-boilerplate"
+    // },
 
     // Site info
     site: {
