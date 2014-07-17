@@ -7,9 +7,9 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Conference name",
-      description: "Conference description",
-      date: "November 15",
+      name: "Semana Acadêmica BSI 2014",
+      description: "", // TODO
+      date: "13 de Outubro",
       // If your event is free, just comment this line
       price: "$100",
       venue: "Coco Bongo",
