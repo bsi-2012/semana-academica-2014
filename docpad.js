@@ -11,19 +11,19 @@ module.exports = {
       description: "", // TODO
       date: "13 de Outubro",
       // If your event is free, just comment this line
-      price: "$100",
-      venue: "Coco Bongo",
-      address: "Boulevard Kukulcan, 30",
-      city: "Cancún",
-      state: "Quintana"
+      price: "", // Maybe, but I think this will remain free of charge
+      venue: "Centro Universitário Católica de Santa Catarina",
+      address: "Rua dos Imigrantes",
+      city: "Jaraguá do Sul",
+      state: "Santa Catarina"
     },
 
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
-    callToAction: {
-        text: "Register now!",
-        link: "http://eventick.com.br"
-    },
+    // callToAction: {
+    //     text: "Register now!",
+    //     link: "http://eventick.com.br"
+    // },
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
     forkButton: {
