@@ -1,4 +1,3 @@
-## semana-academica-2014
-=====================
+## Site da Semana Acadêmica BSI 2014
 
 Let's go!
