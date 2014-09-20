@@ -11,7 +11,7 @@ module.exports = {
       description: "Semana Acadêmica do curso de Bacharelado em Sistemas de Informação",
       date: "13 - 17 de outubro",
       // If your event is free, just comment this line
-      // price: "R$ 25,00",
+      // price: "Entrada Gratuita",
       venue: "Centro Universitário Católica de Santa Catarina",
       address: "R. dos Imigrantes, 500 - Rau",
       city: "Jaraguá do Sul",
@@ -20,10 +20,10 @@ module.exports = {
 
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
-    // callToAction: {
-    //     text: "Ingressos esgotados!",
-    //     link: "#"
-    // },
+    callToAction: {
+        text: "Entrada Gratuita",
+        link: "#"
+    },
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
     // forkButton: {
