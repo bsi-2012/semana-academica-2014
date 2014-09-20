@@ -332,7 +332,7 @@ nav {
   font-size: 2em;
 }
 .section-title {
-  background: #08c;
+  background: #942536;
   color: #fff;
   text-align: center;
   padding: 10px 0;
@@ -346,14 +346,12 @@ nav {
   text-align: center;
 }
 .logo-name {
-  margin-bottom: 0;
-  font-size: 10em;
-  letter-spacing: -0.04em;
+  margin-bottom: 10px;
+  font-size: 5em;
 }
 .tagline {
   margin-bottom: 50px;
-  font-size: 2em;
-  letter-spacing: -0.02em;
+  font-size: 20px;
 }
 .call-action-area .price {
   font-size: 4em;
@@ -751,7 +749,7 @@ h6 {
    NAVIGATION
    ========================================================================== */
 nav {
-  background: #000;
+  background: #942536;
 }
 .nav-link {
   color: #f3f3f3;
@@ -766,11 +764,7 @@ nav {
    HEADER
    ========================================================================== */
 .header {
-  background-image: url('../img/cover.jpg');
-  background-color: #2b2b2b;
-  background-repeat: no-repeat;
-  background-position: center bottom;
-  background-size: 100% auto;
+  background-color: #aa4958;
   position: fixed;
   left: 0;
   right: 0;
@@ -810,11 +804,7 @@ nav {
    FOOTER
    ========================================================================== */
 .footer {
-  background-image: url('../img/cover.jpg');
-  background-color: #2b2b2b;
-  background-repeat: no-repeat;
-  background-position: left center;
-  background-size: 100% auto;
+  background-color: #942536;
   color: #fff;
   height: 100px;
 }
