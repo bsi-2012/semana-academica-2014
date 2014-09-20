@@ -7,15 +7,15 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "DevFest Sul",
-      description: "DevFest é um evento mundial, realizado pela comunidade de desenvolvedores Google. Focado nas necessidades de cada comunidade local, ele tem por objetivo proporcionar a troca de conhecimento, networking e o fortalecimento dessas comunidades.",
+      name: "GDG Semana Acadêmica BSI 2014",
+      description: "Semana Acadêmica do curso de Bacharelado em Sistemas de Informação",
       date: "23 de agosto",
       // If your event is free, just comment this line
-      price: "R$ 25,00",
-      venue: "Centro de Eventos Plaza São Rafael",
-      address: "Avenida Alberto Bins, Centro Histórico",
-      city: "Porto Alegre",
-      state: "Rio Grande do Sul"
+      // price: "R$ 25,00",
+      venue: "Centro Universitário Católica de Santa Catarina",
+      address: "Rua dos Imigrantes 500 - Bairro Rau",
+      city: "Jaraguá do Sul",
+      state: "Santa Catarina"
     },
 
     // The Call To Action button at the header,
@@ -33,7 +33,7 @@ module.exports = {
     // Site info
     site: {
       theme: "yellow-swan",
-      url: "http://devfestsul.com.br",
+      url: "http://semanaacademica.gdgjs.org/",
       googleanalytics: ""
     },
 
@@ -43,8 +43,8 @@ module.exports = {
     sections: [
       'about',
       'location',
-      'speakers',
-      'schedule',
+      // 'speakers',
+      // 'schedule',
       'sponsors',
       // 'partners'
       // 'contact'
