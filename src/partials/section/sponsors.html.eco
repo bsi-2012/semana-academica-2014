@@ -9,7 +9,7 @@
       <% for sponsorAdamantium in @sponsors.adamantium: %>
         <li class="sponsor-item" itemscope itemtype="http://schema.org/Organization">
           <a href="<%= sponsorAdamantium.url %>" class="sponsor-logo" itemprop="url">
-            <img src="<%= sponsorAdamantium.logo %>" alt="<%= sponsorAdamantium.name %>" class="photo" itemprop="image">
+            <img src="<%= sponsorAdamantium.logo %>" alt="<%= sponsorAdamantium.name %>" class="photo <%= sponsorAdamantium.logoClass %>" itemprop="image">
           </a>
         </li>
       <% end %>

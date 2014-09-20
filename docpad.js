@@ -288,7 +288,8 @@ module.exports = {
         // },
         {
           name: "AWLKA",
-          logo: "themes/yellow-swan/awlka-logo.png",
+          logo: "themes/yellow-swan/img/awlka-logo.png",
+          logoClass: 'awlka-logo',
           url: "http://www.awlka.com"
         }
       ],
