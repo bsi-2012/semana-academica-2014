@@ -20,10 +20,10 @@ module.exports = {
 
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
-    callToAction: {
-        text: "Ingressos esgotados!",
-        link: "#"
-    },
+    // callToAction: {
+    //     text: "Ingressos esgotados!",
+    //     link: "#"
+    // },
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
     // forkButton: {
@@ -285,34 +285,6 @@ module.exports = {
           name: "Google",
           logo: "themes/yellow-swan/img/google.png",
           url: "http://google.com"
-        }
-      ],
-      diamond: [
-        {
-          name: "GDG",
-          logo: "themes/yellow-swan/img/your-logo.jpg",
-          url: "mailto:contato@devfestsul.com.br"
-        }
-      ],
-      gold: [
-        {
-          name: "GDG",
-          logo: "themes/yellow-swan/img/your-logo.jpg",
-          url: "mailto:contato@devfestsul.com.br"
-        }
-      ],
-      silver: [
-        {
-          name: "Bludata Software",
-          logo: "themes/yellow-swan/img/bludata.png",
-          url: "http://www.bludata.com.br/"
-        }
-      ],
-      support: [
-        {
-          name: "Wildtech",
-          logo: "themes/yellow-swan/img/wildtech.png",
-          url: "http://www.wildtech.com.br/"
         }
       ],
     },
