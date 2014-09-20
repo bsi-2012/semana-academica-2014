@@ -9,11 +9,11 @@ module.exports = {
     conf: {
       name: "GDG Semana Acadêmica BSI 2014",
       description: "Semana Acadêmica do curso de Bacharelado em Sistemas de Informação",
-      date: "23 de agosto",
+      date: "13 - 17 de outubro",
       // If your event is free, just comment this line
       // price: "R$ 25,00",
       venue: "Centro Universitário Católica de Santa Catarina",
-      address: "Rua dos Imigrantes 500 - Bairro Rau",
+      address: "R. dos Imigrantes, 500 - Rau",
       city: "Jaraguá do Sul",
       state: "Santa Catarina"
     },
