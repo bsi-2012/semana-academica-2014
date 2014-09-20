@@ -4,7 +4,7 @@
 
   <div class="sponsors-category sponsors-category-partner">
     <div class="wrapper">
-      <h3 class="sponsors-category-title">Partner</h3>
+      <!-- <h3 class="sponsors-category-title">Patrocínio</h3> -->
       <ul class="sponsors-adamantium">
       <% for sponsorAdamantium in @sponsors.adamantium: %>
         <li class="sponsor-item" itemscope itemtype="http://schema.org/Organization">

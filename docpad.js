@@ -281,10 +281,15 @@ module.exports = {
     // List of Sponsors
     sponsors: {
       adamantium: [
+        // {
+        //   name: "Google",
+        //   logo: "themes/yellow-swan/img/google.png",
+        //   url: "http://google.com"
+        // },
         {
-          name: "Google",
-          logo: "themes/yellow-swan/img/google.png",
-          url: "http://google.com"
+          name: "AWLKA",
+          logo: "themes/yellow-swan/awlka.svg",
+          url: "http://www.awlka.com"
         }
       ],
     },
