@@ -121,8 +121,16 @@ module.exports = {
         {
           name: "AWLKA",
           logo: "themes/yellow-swan/img/awlka-logo.png",
+          logoClassImg: 'awlka-logo__img',
           logoClass: 'awlka-logo',
           url: "http://www.awlka.com"
+        },
+        {
+          name: "GitHub",
+          logo: "themes/yellow-swan/img/github-logo.png",
+          logoClassImg: 'github-logo__img',
+          logoClass: 'github-logo',
+          url: "https://github.com/"
         }
       ],
     },

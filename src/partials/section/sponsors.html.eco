@@ -7,9 +7,9 @@
       <!-- <h3 class="sponsors-category-title">Patrocínio</h3> -->
       <ul class="sponsors-adamantium">
       <% for sponsorAdamantium in @sponsors.adamantium: %>
-        <li class="sponsor-item" itemscope itemtype="http://schema.org/Organization">
+        <li class="sponsor-item <%= sponsorAdamantium.logoClass %>" itemscope itemtype="http://schema.org/Organization">
           <a href="<%= sponsorAdamantium.url %>" class="sponsor-logo" itemprop="url">
-            <img src="<%= sponsorAdamantium.logo %>" alt="<%= sponsorAdamantium.name %>" class="photo <%= sponsorAdamantium.logoClass %>" itemprop="image">
+            <img src="<%= sponsorAdamantium.logo %>" alt="<%= sponsorAdamantium.name %>" class="photo <%= sponsorAdamantium.logoClassImg %>" itemprop="image">
           </a>
         </li>
       <% end %>
