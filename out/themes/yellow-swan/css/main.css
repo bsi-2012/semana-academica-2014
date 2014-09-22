@@ -710,6 +710,10 @@ nav {
   .speakers-bio {
     display: none;
   }
+  .partner-logo {
+    width: 320px;
+    max-width: 100%;
+  }
   /* footer */
   .footer {
     height: 150px !important;
@@ -738,6 +742,10 @@ nav {
   }
   .partner-link {
     line-height: 115px;
+  }
+  .partner-logo {
+    width: 320px;
+    max-width: 100%;
   }
 }
 /* =============================================================================
