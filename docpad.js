@@ -81,7 +81,7 @@ module.exports = {
       {
         name: "Lucas da Silva",
         photo: "themes/yellow-swan/img/speakers/lucas.jpg",
-        bio: "Criador e organizer do GDG Jaraguá do Sul, acadêmico do curso de Bacharelado em Sistemas da Informação, Web Developer na AWLKA",
+        bio: "Criador e organizer do GDG Jaraguá do Sul, acadêmico do curso de Bacharelado em Sistemas da Informação, Web Developer na AWLKA.",
         company: "AWLKA",
         link: {
           href: "https://twitter.com/_agtlucas",
