@@ -92,6 +92,21 @@ module.exports = {
           description: "Como otimizar aplicações web sem muito esforço.",
           time: "15/10 - 19h00"
         }
+      },
+      {
+        name: "Carlos Alexandre Fuechter",
+        photo: "themes/yellow-swan/img/speakers/carlos-alexandre.jpeg",
+        bio: "Web Developer Full-Stack nas horas livres e desenvolvedor Front-End na Agência Milagro, formado em Tecnologia e Análise de Desenvolvimento de Sistemas.",
+        company: "Milagro",
+        link: {
+          href: "https://twitter.com/alexandref93",
+          text: "@alexandref93"
+        },
+        presentation: {
+          title: "Node.js - Um novo universo",
+          description: "Palestra sobre a plataforma Node.js. O que é? O que ela é capaz de fazer? O seu potencial no mercado. Sua influência no JavaScript.",
+          time: "15/10 - 20h30"
+        }
       }
     ],
 
