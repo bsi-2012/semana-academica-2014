@@ -64,7 +64,7 @@ module.exports = {
     // The entire schedule
     schedule: [
       {
-        name: "Romulo Jales",
+        name: "Rômulo Jales",
         photo: "themes/yellow-swan/img/speakers/romulo-jales.jpeg",
         bio: "Computer Engineer, focus on software engineer, actually working at globo.com, largest website portal in Brazil.",
         company: "Globo.com",
