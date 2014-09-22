@@ -298,9 +298,14 @@ module.exports = {
     // List of Partners
     partners: [
       {
-        name: "BrazilJS",
-        logo: "themes/yellow-swan/img/partner.png",
-        url: "http://braziljs.org"
+        name: "Católica de SC",
+        logo: "themes/yellow-swan/img/catolicasc.jpg",
+        url: "http://catolicasc.org.br"
+      },
+      {
+        name: "GDG Jaraguá do Sul",
+        logo: "themes/yellow-swan/img/gdgjs.png",
+        url: "http://gdgjs.org"
       }
     ],
 
