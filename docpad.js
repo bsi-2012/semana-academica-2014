@@ -64,6 +64,21 @@ module.exports = {
     // The entire schedule
     schedule: [
       {
+        name: "Lucas da Silva",
+        photo: "themes/yellow-swan/img/speakers/lucas.jpg",
+        bio: "Criador e organizer do GDG Jaraguá do Sul, acadêmico do curso de Bacharelado em Sistemas da Informação, Web Developer na AWLKA.",
+        company: "AWLKA",
+        link: {
+          href: "https://twitter.com/_agtlucas",
+          text: "@_agtlucas"
+        },
+        presentation: {
+          title: "Keynote",
+          description: "Apresentação da Semana Acadêmica.",
+          time: "14/10 - 18h50"
+        }
+      },
+      {
         name: "Rômulo Jales",
         photo: "themes/yellow-swan/img/speakers/romulo-jales.jpeg",
         bio: "Computer Engineer, focus on software engineer, actually working at globo.com, largest website portal in Brazil.",
@@ -79,17 +94,17 @@ module.exports = {
         }
       },
       {
-        name: "Lucas da Silva",
-        photo: "themes/yellow-swan/img/speakers/lucas.jpg",
-        bio: "Criador e organizer do GDG Jaraguá do Sul, acadêmico do curso de Bacharelado em Sistemas da Informação, Web Developer na AWLKA.",
-        company: "AWLKA",
+        name: "Ione Souza Junior",
+        photo: "themes/yellow-swan/img/speakers/ione-souza.jpg",
+        bio: "Ione Souza Junior, 27 anos, graduado em Análise e Desenvolvimento de Sistemas pela Católica SC e especializado em Tecnologias Web pela PUC PR. Desenvolvedor há 8 anos, curioso e apreciador de assuntos relacionados a qualidade e testes de software.",
+        company: "Priori",
         link: {
-          href: "https://twitter.com/_agtlucas",
-          text: "@_agtlucas"
+          href: "https://twitter.com/ionixjunior",
+          text: "@ionixjunior"
         },
         presentation: {
-          title: "Otimizando o Front-End",
-          description: "Como otimizar aplicações web sem muito esforço.",
+          title: "Mantendo seu software sob controle",
+          description: "A palestra tem o objetivo de mostrar algumas ferramentas voltadas à qualidade de software aplicadas ao PHP.",
           time: "15/10 - 19h00"
         }
       },
