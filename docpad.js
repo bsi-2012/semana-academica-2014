@@ -94,6 +94,21 @@ module.exports = {
         }
       },
       {
+        name: "Thiago Pradi",
+        photo: "themes/yellow-swan/img/speakers/thiago-pradi.jpeg",
+        bio: "Desenvolvedor Ruby / Rails desde 2008, já trabalhou nos mais diversos projetos. Atualmente, é Desenvolvedor de Software na JobScore, Mestrando em Ciência da Computação na UFPR e Pesquisador no grupo de pesquisa IMAGO. ",
+        company: "JobScore",
+        link: {
+          href: "https://twitter.com/thiagopradi",
+          text: "@thiagopradi"
+        },
+        presentation: {
+          title: "Seu trabalho é inventar o futuro",
+          description: "Com a ascensão da tecnologia no mundo moderno, cada vez mais ela modificando o nosso cotidiano. Porém, como nós, os profissionais de tecnologia, podemos trabalhar para que essa tecnologia se converta em um futuro melhor? Nessa palestra, introduzirei alguns conceitos sobre pesquisas, produtos e ideias da área de tecnologia que estão mudando o mundo para melhor. Além disso, serão apresentadas algumas dicas sobre como você pode participar dessa revolução.",
+          time: "14/10 - 20h30"
+        }
+      },
+      {
         name: "Ione Souza Junior",
         photo: "themes/yellow-swan/img/speakers/ione-souza.jpg",
         bio: "Ione Souza Junior, 27 anos, graduado em Análise e Desenvolvimento de Sistemas pela Católica SC e especializado em Tecnologias Web pela PUC PR. Desenvolvedor há 8 anos, curioso e apreciador de assuntos relacionados a qualidade e testes de software.",
