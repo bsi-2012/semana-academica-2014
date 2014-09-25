@@ -137,6 +137,28 @@ module.exports = {
           description: "Palestra sobre a plataforma Node.js. O que é? O que ela é capaz de fazer? O seu potencial no mercado. Sua influência no JavaScript.",
           time: "15/10 - 20h30"
         }
+      },
+      {
+        name: "João Pedro Schmitt",
+        photo: "themes/yellow-swan/img/speakers/joao.png",
+        bio: "Acadêmico formado em Técnico em Redes de Computadores pelo Senai e cursando Bacharelado em Sistemas de Informação pelo Centro Universitário Católica de SC - Jaraguá do Sul, atualmente empregado como Desenvolvedor de Sistemas WEB de engenharia pela WEG e pesquisador em Sistemas Robóticos/Embarcados pelo Centro Universitário Católica de SC.",
+        company: "WEG",
+        presentation: {
+          title: "IoT",
+          description: "",
+          time: "17/10 - 20h30"
+        }
+      },
+      {
+        name: "Joe Jonas Vogel",
+        photo: "themes/yellow-swan/img/speakers/joe.jpg",
+        bio: "Graduando de Bacharelado em Sistemas de Informação pelo Centro Universitário Católica de Santa Catarina. Pesquisador em Sistemas Roboticos/Embarcados no Centro Universitário Católica de Santa Catarina. Estagiário em Engenharia de Software na WEG Equipamentos Eletrônicos S.A.",
+        company: "WEG",
+        presentation: {
+          title: "IoT",
+          description: "",
+          time: "17/10 - 20h30"
+        }
       }
     ],
 
