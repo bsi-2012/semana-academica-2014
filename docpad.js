@@ -139,13 +139,28 @@ module.exports = {
         }
       },
       {
+        name: "Núcleo de Inovação Digital e Startups",
+        photo: "themes/yellow-swan/img/speakers/acijs.png",
+        bio: "Núcleo de Inovação Digital e Startups.",
+        company: "ACIJS",
+        link: {
+          href: "",
+          text: ""
+        },
+        presentation: {
+          title: "Núcleo de Inovação Digital e Startups apresenta cases",
+          description: "Cases e dicas de empreendedorismo.",
+          time: "16/10 - 19:00"
+        }
+      },
+      {
         name: "João Pedro Schmitt",
         photo: "themes/yellow-swan/img/speakers/joao.png",
         bio: "Acadêmico formado em Técnico em Redes de Computadores pelo Senai e cursando Bacharelado em Sistemas de Informação pelo Centro Universitário Católica de SC - Jaraguá do Sul, atualmente empregado como Desenvolvedor de Sistemas WEB de engenharia pela WEG e pesquisador em Sistemas Robóticos/Embarcados pelo Centro Universitário Católica de SC.",
         company: "WEG",
         presentation: {
           title: "IoT",
-          description: "",
+          description: "Nesta palestra, João e Joe farão um overview sobre IoT.",
           time: "17/10 - 20h30"
         }
       },
@@ -156,7 +171,7 @@ module.exports = {
         company: "WEG",
         presentation: {
           title: "IoT",
-          description: "",
+          description: "Nesta palestra, João e Joe farão um overview sobre IoT.",
           time: "17/10 - 20h30"
         }
       }
