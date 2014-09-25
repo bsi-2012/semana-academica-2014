@@ -137,6 +137,21 @@ module.exports = {
           description: "Palestra sobre a plataforma Node.js. O que é? O que ela é capaz de fazer? O seu potencial no mercado. Sua influência no JavaScript.",
           time: "15/10 - 20h30"
         }
+      },
+      {
+        name: "Núcleo de Inovação Digital e Startups",
+        photo: "themes/yellow-swan/img/speakers/startups.jpg",
+        bio: "Núcleo de Inovação Digital e Startups.",
+        company: "ACIJS",
+        link: {
+          href: "",
+          text: ""
+        },
+        presentation: {
+          title: "Núcleo de Inovação Digital e Startups apresenta cases",
+          description: "Cases e dicas de empreendedorismo.",
+          time: "16/10 - 19:00"
+        }
       }
     ],
 
