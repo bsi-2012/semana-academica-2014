@@ -159,7 +159,7 @@ module.exports = {
         bio: "Acadêmico formado em Técnico em Redes de Computadores pelo Senai e cursando Bacharelado em Sistemas de Informação pelo Centro Universitário Católica de SC - Jaraguá do Sul, atualmente empregado como Desenvolvedor de Sistemas WEB de engenharia pela WEG e pesquisador em Sistemas Robóticos/Embarcados pelo Centro Universitário Católica de SC.",
         company: "WEG",
         presentation: {
-          title: "IoT",
+          title: "IoT - Internet das coisas",
           description: "Nesta palestra, João e Joe farão um overview sobre IoT.",
           time: "17/10 - 20h30"
         }
@@ -170,7 +170,7 @@ module.exports = {
         bio: "Graduando de Bacharelado em Sistemas de Informação pelo Centro Universitário Católica de Santa Catarina. Pesquisador em Sistemas Roboticos/Embarcados no Centro Universitário Católica de Santa Catarina. Estagiário em Engenharia de Software na WEG Equipamentos Eletrônicos S.A.",
         company: "WEG",
         presentation: {
-          title: "IoT",
+          title: "IoT - Internet das coisas",
           description: "Nesta palestra, João e Joe farão um overview sobre IoT.",
           time: "17/10 - 20h30"
         }
