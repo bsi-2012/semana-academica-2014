@@ -135,7 +135,18 @@ module.exports = {
         presentation: {
           title: "Node.js - Um novo universo",
           description: "Palestra sobre a plataforma Node.js. O que é? O que ela é capaz de fazer? O seu potencial no mercado. Sua influência no JavaScript.",
-          time: "15/10 - 20h30"
+          time: "15/10 - 20h15"
+        }
+      },
+      {
+        name: "Eduardo Freitas",
+        photo: "themes/yellow-swan/img/speakers/eduardo-freitas.jpg",
+        bio: "Bacharel em Informática pela UFPR e pós-graduação em Gestão de Negócio pela FAE Business School. Trabalhei como programador, analista de suporte, pré-venda, consultor de negócio na area de inovação e marketing, gerente de vendas de soluções de TI e atualmente como gerente de desenvolvimento de mercado para soluções em Cloud computing da IBM Brasil.",
+        company: "IBM Brasil",
+        presentation: {
+          title: "Cloud computing",
+          description: "O mercado de TI passou por varias transformações e a IBM acompanhou e liderou várias delas. Hoje, aplicativos em cloud, dispositivos moveis, social apps e analise de dados trazem uma nova realidade para os negócios e profissionais do mercado de tecnologia da informação.",
+          time: "15/10 - 21h00"
         }
       },
       {
