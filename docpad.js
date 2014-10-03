@@ -174,7 +174,7 @@ module.exports = {
           text: "@natabarbosa"
         },
         presentation: {
-          title: "Student Sandbox",
+          title: "O universo das Startups",
           description: "Nesta palestra, Natã vai nos contar um pouco sobre o mundo das startups, como foi seu processo na aceleradora de startups 'Student Sandbox' e detalhes sobre a sua visita ao Vale do Silício.",
           time: "17/10 - 19h00"
         }
