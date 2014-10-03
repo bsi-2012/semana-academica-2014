@@ -165,6 +165,21 @@ module.exports = {
         }
       },
       {
+        name: "Natã Barbosa",
+        photo: "themes/yellow-swan/img/speakers/nata-barbosa.jpeg",
+        bio: "Natã é aluno da sexta fase do curso de Bacharelado em Sistemas de Informação na Católica de Santa Catarina em Joinville. Já participou de vários projetos web e mobile desde 2008, quando iniciou suas atividades como desenvolvedor. Dentre os projetos mais importantes estão uma medalha de ouro em competição internacional de web design em Londres, laboratório de pesquisa e desenvolvimento em realidade virtual 3D na Cingapura e estudos em sistemas de informação durante 1 ano em universidade dos EUA. Hoje Natã é analista de sistemas na NeoGrid e ao mesmo tempo atua em projetos de consultoria de qualidade de software e projeto de pesquisa da universidade em qual estudou nos EUA.",
+        company: "NeoGrid",
+        link: {
+          href: "https://twitter.com/natabarbosa",
+          text: "@natabarbosa"
+        },
+        presentation: {
+          title: "Student Sandbox",
+          description: "Nesta palestra, Natã vai nos contar um pouco sobre o mundo das startups, como foi seu processo na aceleradora de startups 'Student Sandbox' e detalhes sobre a sua visita ao Vale do Silício.",
+          time: "17/10 - 19h00"
+        }
+      },
+      {
         name: "João Pedro Schmitt",
         photo: "themes/yellow-swan/img/speakers/joao.png",
         bio: "Acadêmico formado em Técnico em Redes de Computadores pelo Senai e cursando Bacharelado em Sistemas de Informação pelo Centro Universitário Católica de SC - Jaraguá do Sul, atualmente empregado como Desenvolvedor de Sistemas WEB de engenharia pela WEG e pesquisador em Sistemas Robóticos/Embarcados pelo Centro Universitário Católica de SC.",
