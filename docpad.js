@@ -79,21 +79,6 @@ module.exports = {
         }
       },
       {
-        name: "Rômulo Jales",
-        photo: "themes/yellow-swan/img/speakers/romulo-jales.jpeg",
-        bio: "Computer Engineer, focus on software engineer, actually working at globo.com, largest website portal in Brazil.",
-        company: "Globo.com",
-        link: {
-          href: "https://twitter.com/romulojales",
-          text: "@romulojales"
-        },
-        presentation: {
-          title: "Semântica e vocabulários semânticos",
-          description: "Workshop sobre como usar vocabulários semânticos para construir sistemas. O que é semântica? O que são vocabulários semânticos? SparQL e virtuoso, tudo isso e muito mais!",
-          time: "14/10 - 19h00"
-        }
-      },
-      {
         name: "Thiago Pradi",
         photo: "themes/yellow-swan/img/speakers/thiago-pradi.jpeg",
         bio: "Desenvolvedor Ruby / Rails desde 2008, já trabalhou nos mais diversos projetos. Atualmente, é Desenvolvedor de Software na JobScore, Mestrando em Ciência da Computação na UFPR e Pesquisador no grupo de pesquisa IMAGO. ",
@@ -105,6 +90,21 @@ module.exports = {
         presentation: {
           title: "Seu trabalho é inventar o futuro",
           description: "Com a ascensão da tecnologia no mundo moderno, cada vez mais ela modificando o nosso cotidiano. Porém, como nós, os profissionais de tecnologia, podemos trabalhar para que essa tecnologia se converta em um futuro melhor? Nessa palestra, introduzirei alguns conceitos sobre pesquisas, produtos e ideias da área de tecnologia que estão mudando o mundo para melhor. Além disso, serão apresentadas algumas dicas sobre como você pode participar dessa revolução.",
+          time: "14/10 - 19h00"
+        }
+      },
+      {
+        name: "Rômulo Jales",
+        photo: "themes/yellow-swan/img/speakers/romulo-jales.jpeg",
+        bio: "Computer Engineer, focus on software engineer, actually working at globo.com, largest website portal in Brazil.",
+        company: "Globo.com",
+        link: {
+          href: "https://twitter.com/romulojales",
+          text: "@romulojales"
+        },
+        presentation: {
+          title: "Semântica e vocabulários semânticos",
+          description: "Workshop sobre como usar vocabulários semânticos para construir sistemas. O que é semântica? O que são vocabulários semânticos? SparQL e virtuoso, tudo isso e muito mais!",
           time: "14/10 - 20h30"
         }
       },
