@@ -181,7 +181,7 @@ module.exports = {
       },
       {
         name: "João Pedro Schmitt",
-        photo: "themes/yellow-swan/img/speakers/joao.png",
+        photo: "themes/yellow-swan/img/speakers/joao.jpg",
         bio: "Acadêmico formado em Técnico em Redes de Computadores pelo Senai e cursando Bacharelado em Sistemas de Informação pelo Centro Universitário Católica de SC - Jaraguá do Sul, atualmente empregado como Desenvolvedor de Sistemas WEB de engenharia pela WEG e pesquisador em Sistemas Robóticos/Embarcados pelo Centro Universitário Católica de SC.",
         company: "WEG",
         presentation: {
