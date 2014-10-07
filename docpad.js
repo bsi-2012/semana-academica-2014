@@ -216,7 +216,7 @@ module.exports = {
           logo: "themes/yellow-swan/img/awlka-logo.png",
           logoClassImg: 'awlka-logo__img',
           logoClass: 'awlka-logo',
-          url: "http://www.awlka.com"
+          url: "https://www.awlka.com"
         },
         {
           name: "GitHub",
@@ -224,6 +224,13 @@ module.exports = {
           logoClassImg: 'github-logo__img',
           logoClass: 'github-logo',
           url: "https://github.com/"
+        },
+        {
+          name: "Novatec Editora",
+          logo: "themes/yellow-swan/img/novatec.png",
+          logoClassImg: 'novatec-logo__img',
+          logoClass: 'novatec-logo',
+          url: "http://novatec.com.br/"
         }
       ],
     },
