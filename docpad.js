@@ -232,11 +232,13 @@ module.exports = {
     partners: [
       {
         name: "Católica de SC",
+        className: "catolicasc",
         logo: "themes/yellow-swan/img/catolicasc.jpg",
         url: "http://catolicasc.org.br"
       },
       {
         name: "GDG Jaraguá do Sul",
+        className: "gdgjs",
         logo: "themes/yellow-swan/img/gdgjs.png",
         url: "http://gdgjs.org"
       }

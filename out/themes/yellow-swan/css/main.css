@@ -500,6 +500,9 @@ nav {
   top: -1px;
   width: 420px;
 }
+.catolicasc {
+  width: 320px;
+}
 .sponsor-item,
 .partner-item {
   display: inline-block;
@@ -882,6 +885,7 @@ nav {
    ========================================================================== */
 .location {
   background: #fff;
+  height: 790px;
   color: #2b2b2b;
   text-align: center;
 }
