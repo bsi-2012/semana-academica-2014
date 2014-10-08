@@ -1,6 +1,6 @@
 <div class="wrapper">
   <h2 class="section-title"><%= @labels['about'] %></h2>
-  <p itemprop="description">O <a href="http://gdgjs.org">GDG Jaraguá do Sul</a> realiza em parceria com acadêmicos do curso de Bacharelado de Sistema de Informação do Centro Universitário Católica de Santa Catarina, a <strong>Semana Acadêmica BSI 2014</strong></p>
+  <p itemprop="description">O <a href="http://gdgjs.org">GDG Jaraguá do Sul</a> realiza em parceria com acadêmicos do curso de Bacharelado de Sistema de Informação do Centro Universitário Católica de Santa Catarina, a <strong>Semana Acadêmica BSI 2014</strong>.</p>
 
   <p>Serão 4 dias de muita informação e aprendizado para acadêmicos e pessoas da comunidade.</p>
 
