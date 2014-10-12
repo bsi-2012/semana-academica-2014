@@ -159,8 +159,8 @@ module.exports = {
           text: ""
         },
         presentation: {
-          title: "Núcleo de Inovação Digital e Startups apresenta cases",
-          description: "Cases e dicas de empreendedorismo.",
+          title: "Como criar uma Startup de sucesso",
+          description: "Conheça a estrutura e as ações do Núcleo de Inovação Digital e Startups da ACIJS-APEVI e alguns cases de sucesso. A palestra contará com a presença do fundador e CEO do Conta Azul, Vinicius Roveda, além da presença de outros empreendedores da região.",
           time: "16/10 - 19:00"
         }
       },
