@@ -104,7 +104,7 @@ module.exports = {
         },
         presentation: {
           title: "Semântica e vocabulários semânticos",
-          description: "Workshop sobre como usar vocabulários semânticos para construir sistemas. O que é semântica? O que são vocabulários semânticos? SparQL e virtuoso, tudo isso e muito mais! Pré-requisitos: Python 2.7 ou superior com o pip instalado, Virtuoso (http://goo.gl/r4Pp51).",
+          description: "Workshop sobre como usar vocabulários semânticos para construir sistemas. O que é semântica? O que são vocabulários semânticos? SparQL e virtuoso, tudo isso e muito mais!",
           time: "14/10 - 20h30"
         }
       },
