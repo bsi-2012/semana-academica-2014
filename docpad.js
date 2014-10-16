@@ -231,6 +231,13 @@ module.exports = {
           logoClassImg: 'novatec-logo__img',
           logoClass: 'novatec-logo',
           url: "http://novatec.com.br/"
+        },
+        {
+          name: "Grupo A",
+          logo: "themes/yellow-swan/img/grupoa.png",
+          logoClassImg: 'grupoa-logo__img',
+          logoClass: 'grupoa-logo',
+          url: "http://www.grupoa.com.br/"
         }
       ],
     },
